@@ -41,3 +41,16 @@
   font: var(--text-preset-5);
   font-weight: 400;
 }
+
+.cyan {
+  border-color: var(--color-cyan);
+}
+.red {
+  border-color: var(--color-red);
+}
+.orange {
+  border-color: var(--color-orange);
+}
+.blue {
+  border-color: var(--color-blue);
+}
